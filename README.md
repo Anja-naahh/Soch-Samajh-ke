@@ -28,7 +28,7 @@ A simple story-driven game to help rural users recognize scams and make safer fi
 
 ## 📁 How to Play
 
-1. Download or open `Soch Samajh ke.html`
+1. Download or open `soch-samajh-ke.html`
 2. Open in any modern browser (desktop or mobile)
 3. Play through and make choices
 4. Try to avoid getting scammed!
